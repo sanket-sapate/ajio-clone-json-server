@@ -1,0 +1,15 @@
+{
+  "name": "ajio-clone-server",
+  "version": "1.0.0",
+  "description": "Ajio clone",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Sanket Sapate",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
