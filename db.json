@@ -9,7 +9,6 @@
         "address" : []
       }
     ],
-    "products" : {
         "traditional" : [
           {
             "id": 36,
@@ -409,6 +408,9 @@
             "Gender": "F"
           }
         ],
-        "shoes" : []
-    }
+        "shoes" : [],
+        "search" : {
+          "kurta" : "menProducts.html"
+        }
+
   }
