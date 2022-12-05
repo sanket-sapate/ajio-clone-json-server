@@ -41,7 +41,8 @@
           "Gender": "F",
           "qty" : 1
         }],
-        "address" : []
+        "address" : [],
+        "password" : "123"
       }
     ],
     "traditional" : [
