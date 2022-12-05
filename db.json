@@ -5,44 +5,141 @@
         "name": "Gertrudis Tatterton",
         "age": 18,
         "email": "gtatterton0@ehow.com",
-        "cart" : [{
-          "id": 1,
-          "image": "https://assets.ajio.com/medias/sys_master/root/20220705/WzMY/62c35ba3f997dd03e2b98ad0/-1117Wx1400H-464586925-blue-MODEL.jpg",
-          "img1": "https://assets.ajio.com/medias/sys_master/root/20220705/4uiI/62c35ba3f997dd03e2b98b2c/-1117Wx1400H-464586925-blue-MODEL3.jpg",
-          "img2": "https://assets.ajio.com/medias/sys_master/root/20220705/P2lP/62c35ba3f997dd03e2b98af2/-473Wx593H-464586925-blue-MODEL6.jpg",
-          "name": "GLAM ROOTS",
-          "des": "Floral Anarkali Kurta",
-          "price": 800,
-          "type": "dress",
-          "Gender": "F",
-          "qty" : 1
-        },
-        {
-          "id": 2,
-          "image": "https://assets.ajio.com/medias/sys_master/root/20221123/zUpf/637d4106aeb269659ca84d63/-1117Wx1400H-465324816-tan-MODEL.jpg",
-          "img1": "https://assets.ajio.com/medias/sys_master/root/20221123/Cw0h/637d410daeb269659ca84e42/-1117Wx1400H-465324816-tan-MODEL5.jpg",
-          "img2": "https://assets.ajio.com/medias/sys_master/root/20221123/2u5R/637d4106aeb269659ca84d9d/-1117Wx1400H-465324816-tan-MODEL3.jpg",
-          "name": "CAMPUS SUTRA",
-          "des": "Zip-Front Bomber Jacket",
-          "price": 700,
-          "type": "jacket",
-          "Gender": "M",
-          "qty" : 1
-        },
-        {
-          "id": 3,
-          "image": "https://assets.ajio.com/medias/sys_master/root/20220323/RjiR/623acfbaaeb26921afec7a51/-1117Wx1400H-462745234-blue-MODEL.jpg",
-          "img1": "https://assets.ajio.com/medias/sys_master/root/20220323/hxiq/623acfbbaeb26921afec7a8e/-1117Wx1400H-462745234-blue-MODEL4.jpg",
-          "img2": "https://assets.ajio.com/medias/sys_master/root/20220323/O3qt/623acfbbaeb26921afec7a87/-1117Wx1400H-462745234-blue-MODEL5.jpg",
-          "name": "KIANA HOUSE OF FASHION",
-          "des": "Floral Print Round Neck Gown Dress",
-          "price": 450,
-          "type": "dress",
-          "Gender": "F",
-          "qty" : 1
-        }],
-        "address" : [],
-        "password" : "123"
+        "cart": [
+          {
+            "id": 1,
+            "image": "https://assets.ajio.com/medias/sys_master/root/20220705/WzMY/62c35ba3f997dd03e2b98ad0/-1117Wx1400H-464586925-blue-MODEL.jpg",
+            "img1": "https://assets.ajio.com/medias/sys_master/root/20220705/4uiI/62c35ba3f997dd03e2b98b2c/-1117Wx1400H-464586925-blue-MODEL3.jpg",
+            "img2": "https://assets.ajio.com/medias/sys_master/root/20220705/P2lP/62c35ba3f997dd03e2b98af2/-473Wx593H-464586925-blue-MODEL6.jpg",
+            "name": "GLAM ROOTS",
+            "des": "Floral Anarkali Kurta",
+            "price": 800,
+            "type": "dress",
+            "Gender": "F",
+            "qty": 1
+          },
+          {
+            "id": 2,
+            "image": "https://assets.ajio.com/medias/sys_master/root/20221123/zUpf/637d4106aeb269659ca84d63/-1117Wx1400H-465324816-tan-MODEL.jpg",
+            "img1": "https://assets.ajio.com/medias/sys_master/root/20221123/Cw0h/637d410daeb269659ca84e42/-1117Wx1400H-465324816-tan-MODEL5.jpg",
+            "img2": "https://assets.ajio.com/medias/sys_master/root/20221123/2u5R/637d4106aeb269659ca84d9d/-1117Wx1400H-465324816-tan-MODEL3.jpg",
+            "name": "CAMPUS SUTRA",
+            "des": "Zip-Front Bomber Jacket",
+            "price": 700,
+            "type": "jacket",
+            "Gender": "M",
+            "qty": 1
+          },
+          {
+            "id": 3,
+            "image": "https://assets.ajio.com/medias/sys_master/root/20220323/RjiR/623acfbaaeb26921afec7a51/-1117Wx1400H-462745234-blue-MODEL.jpg",
+            "img1": "https://assets.ajio.com/medias/sys_master/root/20220323/hxiq/623acfbbaeb26921afec7a8e/-1117Wx1400H-462745234-blue-MODEL4.jpg",
+            "img2": "https://assets.ajio.com/medias/sys_master/root/20220323/O3qt/623acfbbaeb26921afec7a87/-1117Wx1400H-462745234-blue-MODEL5.jpg",
+            "name": "KIANA HOUSE OF FASHION",
+            "des": "Floral Print Round Neck Gown Dress",
+            "price": 450,
+            "type": "dress",
+            "Gender": "F",
+            "qty": 1
+          }
+        ],
+        "address": [],
+        "password": "123"
+      },
+      {
+        "email": "sanketsapatevnit@gmail.com",
+        "password": "123",
+        "cart": [
+          {
+            "id": 2,
+            "image": "https://assets.ajio.com/medias/sys_master/root/20221123/zUpf/637d4106aeb269659ca84d63/-1117Wx1400H-465324816-tan-MODEL.jpg",
+            "img1": "https://assets.ajio.com/medias/sys_master/root/20221123/Cw0h/637d410daeb269659ca84e42/-1117Wx1400H-465324816-tan-MODEL5.jpg",
+            "img2": "https://assets.ajio.com/medias/sys_master/root/20221123/2u5R/637d4106aeb269659ca84d9d/-1117Wx1400H-465324816-tan-MODEL3.jpg",
+            "name": "CAMPUS SUTRA",
+            "des": "Zip-Front Bomber Jacket",
+            "price": 700,
+            "type": "jacket",
+            "Gender": "M",
+            "qty": 1
+          },
+          {
+            "isTrusted": true,
+            "qty": 1
+          },
+          {
+            "id": 10,
+            "image": "https://assets.ajio.com/medias/sys_master/root/20211208/ZgME/61aff4e5f997ddf8f1464775/-1117Wx1400H-420054318-navy-MODEL.jpg",
+            "img1": "https://assets.ajio.com/medias/sys_master/root/20211208/YDgp/61afd001f997ddf8f1441113/-1117Wx1400H-420054318-navy-MODEL2.jpg",
+            "img2": "https://assets.ajio.com/medias/sys_master/root/20211208/BlSV/61affd37f997ddf8f146c38c/-1117Wx1400H-420054318-navy-MODEL3.jpg",
+            "name": "JOHN PLAYERS",
+            "des": "Quilted Slim Fit Gillet",
+            "price": 860,
+            "type": "jacket",
+            "Gender": "M",
+            "qty": 1
+          }
+        ],
+        "address": [],
+        "id": 2
+      },
+      {
+        "email": "adilayaanjmi@gmail.com",
+        "password": "1234",
+        "cart": [
+          {
+            "id": 6,
+            "image": "https://assets.ajio.com/medias/sys_master/root/20220121/Q6WS/61ea7ef1aeb2695cdd26a570/-1117Wx1400H-463138329-purple-MODEL.jpg",
+            "img1": "https://assets.ajio.com/medias/sys_master/root/20220121/G4KE/61ea7ef1aeb2695cdd26a5b7/-1117Wx1400H-463138329-purple-MODEL3.jpg",
+            "img2": "https://assets.ajio.com/medias/sys_master/root/20220121/BtIw/61ea7ef1aeb2695cdd26a5b5/-1117Wx1400H-463138329-purple-MODEL5.jpg",
+            "name": "HANGUP",
+            "des": "Embroidered 3-Piece Kurta & Pyjama Set",
+            "price": 980,
+            "type": "ethentic",
+            "Gender": "M",
+            "qty": 1
+          }
+        ],
+        "address": [],
+        "id": 3
+      },
+      {
+        "email": "adilrana03",
+        "password": "123",
+        "cart": [
+          {
+            "id": 2,
+            "image": "https://assets.ajio.com/medias/sys_master/root/20221123/zUpf/637d4106aeb269659ca84d63/-1117Wx1400H-465324816-tan-MODEL.jpg",
+            "img1": "https://assets.ajio.com/medias/sys_master/root/20221123/Cw0h/637d410daeb269659ca84e42/-1117Wx1400H-465324816-tan-MODEL5.jpg",
+            "img2": "https://assets.ajio.com/medias/sys_master/root/20221123/2u5R/637d4106aeb269659ca84d9d/-1117Wx1400H-465324816-tan-MODEL3.jpg",
+            "name": "CAMPUS SUTRA",
+            "des": "Zip-Front Bomber Jacket",
+            "price": 700,
+            "type": "jacket",
+            "Gender": "M",
+            "qty": 1
+          },
+          {
+            "id": 4,
+            "image": "https://assets.ajio.com/medias/sys_master/root/20220902/Xos5/63119582aeb269dbb3649d10/-1117Wx1400H-464919127-blue-MODEL.jpg",
+            "img1": "https://assets.ajio.com/medias/sys_master/root/20220902/sJz1/63119586aeb269dbb3649d35/-1117Wx1400H-464919127-blue-MODEL2.jpg",
+            "img2": "https://assets.ajio.com/medias/sys_master/root/20220902/sJz1/63119586aeb269dbb3649d35/-1117Wx1400H-464919127-blue-MODEL2.jpg",
+            "name": "EYEBOGLER",
+            "des": "Geometric Print Hooded T-shirt",
+            "price": 670,
+            "type": "tshirt",
+            "Gender": "M",
+            "qty": 1
+          }
+        ],
+        "address": [],
+        "id": 4
+      },
+      {
+        "email": "prabhanshu23@gmail.com",
+        "password": "prabhanshu23",
+        "cart": [],
+        "address": [],
+        "id": 5
       }
     ],
     "traditional" : [
@@ -999,6 +1096,7 @@
     "search" : {
       "kurta" : "menProducts.html",
       "jeans" : "menProducts.html",
+      "saree" : "womensProducts.html",
       "shoes" : "shoes.html",
       "shoe" : "shoes.html"
     }
